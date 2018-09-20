@@ -1,4 +1,4 @@
-import 'package:Sum_square_difference/Sum_square_difference.dart' as Sum_square_difference;
+//import 'package:Sum_square_difference/Sum_square_difference.dart' as Sum_square_difference;
 import 'dart:math';
 main() {
   int sum=0,sum1=0,sum2;
