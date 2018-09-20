@@ -3,7 +3,7 @@
 import 'dart:math';
 class primefactor{
   bool checkprime(int num){
-    for(int i=2;i<(num/2).floor();i++){
+    for(int i=2;i<(sqrt(num)).floor()+1;i++){
       if(num%i==0)
         return false;
     }
