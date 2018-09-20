@@ -1,4 +1,4 @@
-import 'package:Special_Pythagorean_triplet/Special_Pythagorean_triplet.dart' as Special_Pythagorean_triplet;
+//import 'package:Special_Pythagorean_triplet/Special_Pythagorean_triplet.dart' as Special_Pythagorean_triplet;
 import 'dart:math';
 class pythagorean{
   bool isPythagorean(int a,int b, int c){
